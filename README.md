@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aashish1814
+- 👋 Hi, I’m Aashish Bari
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Django projects
