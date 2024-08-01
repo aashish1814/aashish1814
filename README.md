@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Django projects
-- 📫 How to reach me mail on aashishbari456@gmail.com
+- 📫 To contact me, mail me on aashishbari456@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
