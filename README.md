@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aashish Bari
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Django 
-- 💞️ I’m looking to collaborate on Django projects
+- 🌱 I’m currently learning more about PHP 
+- 💞️ I’m looking to collaborate on PHP projects
 - 📫 To contact me, mail me on aashishbari456@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
